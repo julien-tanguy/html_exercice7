@@ -1,0 +1,14 @@
+#form1{
+    margin-top: 30px;
+    width: 900px;
+    height: 150px;
+    background-color: rgb(18, 105, 156);
+}
+#identité{
+    padding-top: 40px;
+    margin-left: 40px;
+}
+input{
+    margin-bottom: 5px;
+    font-size: 10px;
+}
