@@ -1,40 +1,40 @@
 /*---------------------------DIVFORM------------------------------------*/
-#form1{
+#form1 {
     margin-top: 30px;
     padding-left: 2px;
     padding-top: 2px;
     border: 1px solid grey;
     width: 925px; 
 }
-#form2{
+#form2 {
     padding-left: 2px;
     padding-top: 2px;
     border: 1px solid grey;
     width: 925px; 
 }
-#form3{
+#form3 {
     padding-left: 2px;
     padding-top: 2px;
     border: 1px solid grey;
     width: 925px;
 }
 /*---------------------------ID------------------------------------*/
-#identité{
+#identité {
     background-color: rgb(18, 105, 156);
 }
-#livraison{
+#livraison {
     background-color: rgb(151, 20, 155);
 }
-#paiement{
+#paiement {
     background-color: rgb(225, 1, 81);
 }
-#paiement, #livraison, #identité{
+#paiement, #livraison, #identité {
     padding: 25px 0px 25px 25px;
     width: 900px;
     height: auto;
 }
 /*---------------------------CLASS------------------------------------*/
-.titleDiv1{
+.titleDiv1 {
     position: relative;
     z-index: 2;
     background-color: rgb(18, 105, 156);
@@ -43,7 +43,7 @@
     margin-left: 15px;
     margin-bottom: -45px;
 }
-.titleDiv2{
+.titleDiv2 {
     position: relative;
     z-index: 2;
     background-color: rgb(151, 20, 155);
@@ -52,7 +52,7 @@
     margin-left: 15px;
     margin-bottom: -16px;
 }
-.titleDiv3{
+.titleDiv3 {
     position: relative;
     z-index: 2;
     background-color: rgb(225, 1, 81);
@@ -61,26 +61,26 @@
     margin-left: 15px;
     margin-bottom: -16px;
 }
-.divradio{
+.divradio {
     padding-left: 45px;
 }
-.pcarte{
+.pcarte {
     margin-bottom: 0px;
 }
 /*---------------------------BALISE--------------------------------------*/
-button{
+button {
     margin-top: 5px;
     font-size: 15px;
     padding: 3px;
 }
-input{
+input {
     margin-bottom: 5px;
     font-size: 13px;
 }
-label{
+label {
     font-size: 20px;
 }
-p{
+p {
     font-size: 20px;
 }
 
